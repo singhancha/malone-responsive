@@ -1,0 +1,24 @@
+.meeet{
+    /* background-color: #c79288; */
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* text-align: center; */
+    align-items: center;
+    padding: 40px;
+    gap: 80px;
+    
+    & h2{
+        text-align: center;
+
+    }
+    & h1{
+        color: black;
+    }
+    
+    
+    
+}

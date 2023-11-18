@@ -1,0 +1,14 @@
+section{
+    width: 60%;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 40px;
+}
+img{
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+}

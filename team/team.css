@@ -1,0 +1,35 @@
+section{
+    width: 70%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    padding: 80px;
+}
+
+.team{
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* border: 2px solid black; */
+    
+}
+.team1{
+    /* border: 2px solid black; */
+    width: 516px;
+    margin: auto;
+    display: grid;
+    gap: 50px;
+    text-align: center;
+    
+
+}
+img{
+    width: 516px;
+}
+p{
+    line-height: 30px;
+    font-size: 18px;
+    padding: 20px;
+}
